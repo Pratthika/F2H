@@ -1,0 +1,87 @@
+{
+    "Search": "തിരയുക...",
+    "Price": "വില",
+    "Crop Type": "താന്റെ തരം",
+    "Farmer Location": "കർഷകരുടെ സ്ഥാനം",
+    "Available Products": "ഉപലഭ്യമായ ഉൽപ്പന്നങ്ങൾ",
+    "Owner": "അധികാരി",
+    "Location": "സ്ഥാനം",
+    "Contact": "ബന്ധപ്പെടുക",
+    "Farmers Name": "കർഷകന്റെ പേര്",
+    "Total Price": "മൊത്തം വില",
+    "Message Owner": "അധികാരിയ്ക്ക് സന്ദേശം അയയ്ക്കുക",
+    "Add Review": "അവലോകനം ചേർക്കുക",
+    "Submit Review": "അവലോകനം സമർപ്പിക്കുക",
+    "Reviews": "അവലോകനങ്ങൾ",
+    "No Product Data": "ഉൽപ്പന്ന ഡാറ്റ ഇല്ല",
+    "Empty Cart": "നിങ്ങളുടെ കാർട്ട് ശൂന്യമാണ്",
+    "Buy All Items": "എല്ലാ വസ്തുക്കളും വാങ്ങുക",
+    "Buy Selected Items": "തിരഞ്ഞെടുത്ത വസ്തുക്കൾ വാങ്ങുക",
+    "Select All": "എല്ലാം തിരഞ്ഞെടുക്കുക",
+    "Deselect All": "എല്ലാം തിരഞ്ഞെടുക്കൽ നീക്കുക",
+    "Back": "മുമ്പത്തെ സ്ഥിതി",
+    "Mobile Number": "മൊബൈൽ നമ്പർ",
+    "Age": "പ്രായം",
+    "Address": "വിലാസം",
+    "Verified Status": "സത്യാപിതാവിന്റെ സ്ഥിതി",
+    "Verified": "സത്യാപിത",
+    "Aadhar Number": "ആധാർ നമ്പർ",
+    "State": "സംസ്ഥാനം",
+    "Village": "ഗ്രാമം",
+    "Purchase History": "വാങ്ങൽ ചരിത്രം",
+    "Contact Us": "ഞങ്ങളുമായി ബന്ധപ്പെടുക",
+    "Call Screen": "കോൾ സ്‌ക്രീൻ",
+    "Notification Screen": "അറിയിപ്പ് സ്‌ക്രീൻ",
+    "Message Screen": "സന്ദേശം സ്‌ക്രീൻ",
+    "Create a Post or Ask a Question": "ഒരു പോസ്റ്റ് സൃഷ്ടിക്കൂ അല്ലെങ്കിൽ ഒരു ചോദ്യം ചോദിക്കൂ",
+  "Ask your question here...": "നിങ്ങളുടെ ചോദ്യം ഇവിടെ ചോദിക്കൂ...",
+  "Submit": "സമർപ്പിക്കുക",
+  "Recent Posts": "സമീപകാല പോസ്റ്റുകൾ",
+  "Reply": "മറുപടി",
+  "Type your reply...": "നിങ്ങളുടെ മറുപടി ടൈപ്പ് ചെയ്യൂ...",
+  "Submit Reply": "മറുപടി സമർപ്പിക്കുക",
+  "callScreen": {
+    "Call History": "കോൾ ചരിത്രം",
+    "outgoing": "പുറത്തായത്",
+    "incoming": "അകത്തായത്",
+    "missed": "മിസ്ഡ്",
+    "time": "സമയം",
+    "duration": "കാലയളവ്",
+    "yesterday": "ഇന്ന്",
+    "daysAgo": "{{count}} ദിവസം മുമ്പ്",
+    "mins": "മിനുട്ടുകൾ"
+  },
+  "names": {
+    "john_doe": "ജോൺ ഡോ",
+    "jane_smith": "ജെയ്ൻ സ്മിത്",
+    "bob_williams": "ബോബ് വില്യംസ്",
+    "alice_johnson": "ആലിസ് ജോൺസന്‍"
+  },
+  "notifications": "അറിയിപ്പുകൾ",
+  "farmer": "കൃഷിക്കാർ",
+  "status": "സ്ഥിതി",
+  "time": "സമയം",
+  "noNotifications": "ഇപ്പോഴും അറിയിപ്പുകളില്ല",
+  "statuses": {
+    "Accepted": "സ്വീകരിച്ചു",
+    "Rejected": "നിഷേധിച്ചു",
+    "Pending": "നിൽക്കുന്നു"
+  },
+  "products": {
+    "fresh_tomatoes": "താജാ ടോമാറ്റോസ്",
+    "organic_carrots": "സസ്യവസ്തുക്കളായ കാരറ്റ്",
+    "green_lettuce": "പച്ച പണിക്കേസ്"
+  },
+  "messages": {
+    "message1": "ഹേ, നിങ്ങൾ വിശദാംശങ്ങൾ അയയ്ക്കുമോ?",
+    "message2": "യോഗം നാളെ മാറ്റിവെച്ചിട്ടുണ്ട്.",
+    "message3": "അപ്ഡേറ്റിന് നന്ദി!"
+  },
+  "times": {
+    "Today": "ഇന്ന്",
+    "Yesterday": "ഇന്നലെ",
+    "daysAgo": "{{count}} ദിവസങ്ങൾക്ക് മുമ്പ്"
+  },
+  "Farm2Home": "ഫാർം2ഹോം"
+  }
+  
