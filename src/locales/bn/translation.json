@@ -1,0 +1,86 @@
+{
+    "Search": "অনুসন্ধান করুন...",
+    "Price": "দাম",
+    "Crop Type": "ফসলের প্রকার",
+    "Farmer Location": "চাষীদের অবস্থান",
+    "Available Products": "উপলব্ধ পণ্য",
+    "Owner": "মালিক",
+    "Location": "অবস্থান",
+    "Contact": "যোগাযোগ",
+    "Farmers Name": "চাষীর নাম",
+    "Total Price": "মোট দাম",
+    "Message Owner": "মালিককে বার্তা পাঠান",
+    "Add Review": "মন্তব্য যোগ করুন",
+    "Submit Review": "মন্তব্য জমা দিন",
+    "Reviews": "মন্তব্য",
+    "No Product Data": "কোনও পণ্য তথ্য নেই",
+    "Empty Cart": "আপনার কার্ট খালি",
+    "Buy All Items": "সব আইটেম কিনুন",
+    "Buy Selected Items": "নির্বাচিত আইটেম কিনুন",
+    "Select All": "সব নির্বাচন করুন",
+    "Deselect All": "সব নির্বাচন বাতিল করুন",
+    "Back": "ফিরে যান",
+    "Mobile Number": "মোবাইল নম্বর",
+    "Age": "বয়স",
+    "Address": "ঠিকানা",
+    "Verified Status": "যাচাইয়ের অবস্থা",
+    "Verified": "যাচাই করা হয়েছে",
+    "Aadhar Number": "আধার নম্বর",
+    "State": "রাজ্য",
+    "Village": "গ্রাম",
+    "Purchase History": "ক্রয়ের ইতিহাস",
+    "Contact Us": "আমাদের সাথে যোগাযোগ করুন",
+    "Call Screen": "কল স্ক্রীন",
+    "Notification Screen": "নোটিফিকেশন স্ক্রীন",
+    "Message Screen": "বার্তা স্ক্রীন",
+    "Create a Post or Ask a Question": "একটি পোস্ট তৈরি করুন বা প্রশ্ন জিজ্ঞাসা করুন",
+  "Ask your question here...": "এখানে আপনার প্রশ্ন জিজ্ঞাসা করুন...",
+  "Submit": "জমা দিন",
+  "Recent Posts": "সাম্প্রতিক পোস্ট",
+  "Reply": "উত্তর দিন",
+  "Type your reply...": "আপনার উত্তর টাইপ করুন...",
+  "Submit Reply": "উত্তর জমা দিন",
+  "callScreen": {
+    "Call History": "কল ইতিহাস",
+    "outgoing": "আউটগোয়িং",
+    "incoming": "ইনকামিং",
+    "missed": "মিসড",
+    "time": "সময়",
+    "duration": "সময়কাল",
+    "yesterday": "গতকাল",
+    "daysAgo": "{{count}} দিন আগে",
+    "mins": "মিনিট"
+  },
+  "names": {
+    "john_doe": "জন ডো",
+    "jane_smith": "জেন স্মিথ",
+    "bob_williams": "বব উইলিয়ামস",
+    "alice_johnson": "অ্যালিস জনসন"
+  },
+  "notifications": "নোটিফিকেশন",
+  "farmer": "কৃষক",
+  "status": "অবস্থা",
+  "time": "সময়",
+  "noNotifications": "এখনো কোনো নোটিফিকেশন নেই",
+  "statuses": {
+    "Accepted": "গৃহীত",
+    "Rejected": "অগ্রাহ্য",
+    "Pending": "মুলতুবি"
+  },
+  "products": {
+    "fresh_tomatoes": "তাজা টমেটো",
+    "organic_carrots": "জৈব গাজর",
+    "green_lettuce": "সবুজ লেটুস"
+  },
+  "messages": {
+    "message1": "হে, আপনি কি বিস্তারিত পাঠাতে পারেন?",
+    "message2": "মিটিংটি আগামীকালের জন্য স্থগিত করা হয়েছে।",
+    "message3": "আপডেটের জন্য ধন্যবাদ!"
+  },
+  "times": {
+    "Today": "আজ",
+    "Yesterday": "গতকাল",
+    "daysAgo": "{{count}} দিন আগে"
+  },  "Farm2Home": "ফার্ম2হোম"
+  }
+  
