@@ -1,0 +1,87 @@
+{
+    "Search": "అద్వాన్సు చేయండి...",
+    "Price": "ధర",
+    "Crop Type": "కార్యముల రకం",
+    "Farmer Location": "వ్యవసాయుల స్థానం",
+    "Available Products": "ఉపలభ్య ఉత్పత్తులు",
+    "Owner": "మాలిక",
+    "Location": "స్థానం",
+    "Contact": "సంపర్కం",
+    "Farmers Name": "వ్యవసాయిగా పేరు",
+    "Total Price": "మొత్తం ధర",
+    "Message Owner": "మాలికకు సందేశం పంపండి",
+    "Add Review": "సమీక్ష జోడించండి",
+    "Submit Review": "సమీక్ష సమర్పించండి",
+    "Reviews": "సమీక్షలు",
+    "No Product Data": "ఎలాంటి ఉత్పత్తి సమాచారం లేదు",
+    "Empty Cart": "మీ కార్ట్ ఖాళీ",
+    "Buy All Items": "అన్ని అంశాలను కొనండి",
+    "Buy Selected Items": "ఎంచుకున్న అంశాలను కొనండి",
+    "Select All": "అన్ని ఎంపిక చేసుకోండి",
+    "Deselect All": "అన్ని ఎంపిక రద్దు చేయండి",
+    "Back": "తిరిగి",
+    "Mobile Number": "మొబైల్ నంబర్",
+    "Age": "వయసు",
+    "Address": "చిరునామా",
+    "Verified Status": "సत्यాపన స్థితి",
+    "Verified": "సత్యాపిత",
+    "Aadhar Number": "ఆధార్ నంబర్",
+    "State": "రాష్ట్రం",
+    "Village": "పల్లె",
+    "Purchase History": "కొనుగోలు చరిత్ర",
+    "Contact Us": "మాతో సంప్రదించండి",
+    "Call Screen": "కాల్ స్క్రీన్",
+    "Notification Screen": "నోటిఫికేషన్ స్క్రీన్",
+    "Message Screen": "సందేశం స్క్రీన్",
+    "Create a Post or Ask a Question": "పోస్ట్ సృష్టించండి లేదా ప్రశ్న అడగండి",
+  "Ask your question here...": "మీ ప్రశ్నను ఇక్కడ అడగండి...",
+  "Submit": "సమర్పించు",
+  "Recent Posts": "తాజా పోస్ట్‌లు",
+  "Reply": "సమాధానం ఇవ్వు",
+  "Type your reply...": "మీ సమాధానాన్ని టైప్ చేయండి...",
+  "Submit Reply": "సమాధానం సమర్పించండి",
+  "callScreen": {
+    "Call History": "కాల్ చరిత్ర",
+    "outgoing": "బయటికి వెళ్లినది",
+    "incoming": "అంతర్గత",
+    "missed": "మిస్డ్",
+    "time": "సమయం",
+    "duration": "కాలం",
+    "yesterday": "నిన్న",
+    "daysAgo": "{{count}} రోజుల కింద",
+    "mins": "నిమిషాలు"
+  },
+  "names": {
+    "john_doe": "జాన్ డో",
+    "jane_smith": "జైన్ స్మిత్",
+    "bob_williams": "బాబ్ విలియమ్స్",
+    "alice_johnson": "అలీస్ జాన్సన్"
+  },
+  "notifications": "అనూహ్యాలు",
+  "farmer": "వ్యవసాయ కర్త",
+  "status": "స్థితి",
+  "time": "సమయం",
+  "noNotifications": "ఇప్పటి వరకు ఏదీ లేదు",
+  "statuses": {
+    "Accepted": "అంగీకరించారు",
+    "Rejected": "తిరస్కరించారు",
+    "Pending": "కోరుకుంటోంది"
+  },
+  "products": {
+    "fresh_tomatoes": "తాజా టమాటాలు",
+    "organic_carrots": "సేంద్రీయ గాజరులు",
+    "green_lettuce": "హరిత తులసి"
+  },
+  "messages": {
+    "message1": "హే, మీరు వివరాలు పంపవచ్చా?",
+    "message2": "సమావేశం రేపు వాయిదా వేయబడింది.",
+    "message3": "అప్‌డేట్‌కు ధన్యవాదాలు!"
+  },
+  "times": {
+    "Today": "ఈ రోజు",
+    "Yesterday": "నిన్న",
+    "daysAgo": "{{count}} రోజుల క్రితం"
+  },
+  "Farm2Home": "ఫార్మ్2హోమ్"
+  }
+  
