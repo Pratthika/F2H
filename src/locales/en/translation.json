@@ -1,0 +1,55 @@
+{
+    "searchPlaceholder": "Search...",
+    "priceFilter": "Price",
+    "cropTypeFilter": "Crop Type",
+    "farmersLocation": "Farmers' Location",
+    "availableProducts": "Available Products",
+    "price": "Price",
+    "owner": "Owner",
+    "location": "Location",
+    "contact": "Contact",
+    "farmersName": "Farmer's Name",
+    "callScreen": {
+    "Call History": "Call History",
+    "outgoing": "Outgoing",
+    "incoming": "Incoming",
+    "missed": "Missed",
+    "time": "Time",
+    "duration": "Duration",
+    "yesterday": "Yesterday",
+    "daysAgo": "{{count}} days ago",
+    "mins": "mins"
+  },
+  "names": {
+    "john_doe": "John Doe",
+    "jane_smith": "Jane Smith",
+    "bob_williams": "Bob Williams",
+    "alice_johnson": "Alice Johnson"
+  },
+  "notifications": "Notifications",
+  "farmer": "Farmer",
+  "status": "Status",
+  "time": "Time",
+  "noNotifications": "No notifications yet",
+  "statuses": {
+    "Accepted": "Accepted",
+    "Rejected": "Rejected",
+    "Pending": "Pending"
+  },
+  "products": {
+    "fresh_tomatoes": "Fresh Tomatoes",
+    "organic_carrots": "Organic Carrots",
+    "green_lettuce": "Green Lettuce"
+  },
+  "messages": {
+    "message1": "Hey, can you send the details?",
+    "message2": "Meeting is postponed to tomorrow.",
+    "message3": "Thanks for the update!"
+  },
+  "times": {
+    "Today": "Today",
+    "Yesterday": "Yesterday",
+    "daysAgo": "{{count}} days ago"
+  }
+  }
+  
