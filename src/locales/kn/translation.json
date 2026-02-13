@@ -1,0 +1,87 @@
+{
+    "Search": "ಹುಡುಕಿ...",
+    "Price": "ಮೂಲ್ಯ",
+    "Crop Type": "ಕೃಷಿ ಪ್ರಕಾರ",
+    "Farmer Location": "ಕೃಷಿಕರ ಸ್ಥಳ",
+    "Available Products": "ಲಭ್ಯವಿರುವ ಉತ್ಪನ್ನಗಳು",
+    "Owner": "ಮಾಲೀಕ",
+    "Location": "ಸ್ಥಳ",
+    "Contact": "ಸಂಪರ್ಕ",
+    "Farmers Name": "ಕೃಷಿಕನ ಹೆಸರು",
+    "Total Price": "ಒಟ್ಟು ವೆಚ್ಚ",
+    "Message Owner": "ಮಾಲೀಕನಿಗೆ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿ",
+    "Add Review": "ರಿವ್ಯೂ ಸೇರಿಸಿ",
+    "Submit Review": "ರಿವ್ಯೂ ಸಲ್ಲಿಸಿ",
+    "Reviews": "ರಿವ್ಯೂಗಳು",
+    "No Product Data": "ಯಾವುದೇ ಉತ್ಪನ್ನದ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ",
+    "Empty Cart": "ನಿಮ್ಮ ಕಾರ್ಟ್ ಖಾಲಿ ಇದೆ",
+    "Buy All Items": "ಎಲ್ಲಾ ಐಟಂಗಳನ್ನು ಖರೀದಿಸಿ",
+    "Buy Selected Items": "ಆಪ್ತವಾಗಿ ಆಯ್ಕೆ ಮಾಡಿದ ಐಟಂಗಳನ್ನು ಖರೀದಿಸಿ",
+    "Select All": "ಎಲ್ಲಾ ಆಯ್ಕೆ ಮಾಡಿ",
+    "Deselect All": "ಎಲ್ಲಾ ಆಯ್ಕೆ ನಿವಾರಣ ಮಾಡಿ",
+    "Back": "ಹಿಂಬಾಲಿಸಿ",
+    "Mobile Number": "ಮೆಾಬೈಲ್ ನಂಬರ",
+    "Age": "ವಯಸ್ಸು",
+    "Address": "ವಿಳಾಸ",
+    "Verified Status": "ಪರಿಶೀಲಿತ ಸ್ಥಿತಿ",
+    "Verified": "ಪರಿಶೀಲಿತ",
+    "Aadhar Number": "ಆಧಾರ್ ನಂಬರ್",
+    "State": "ರಾಜ್ಯ",
+    "Village": "ಗ್ರಾಮ",
+    "Purchase History": "ಖರೀದಿ ಇತಿಹಾಸ",
+    "Contact Us": "ನಮಗೆ ಸಂಪರ್ಕಿಸಿ",
+    "Call Screen": "ಕಾಲ್ ಪರದೆ",
+    "Notification Screen": "ಅನುರೂಪ ಪರದೆ",
+    "Message Screen": "ಸಂದೇಶ ಪರದೆ",
+    "Create a Post or Ask a Question": "ಒಂದು ಪೋಸ್ಟ್ ರಚಿಸಿ ಅಥವಾ ಪ್ರಶ್ನೆ ಕೇಳಿ",
+  "Ask your question here...": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಇಲ್ಲಿ ಕೇಳಿ...",
+  "Submit": "ಸಲ್ಲಿಸು",
+  "Recent Posts": "ಇತ್ತೀಚಿನ ಪೋಸ್ಟ್‌ಗಳು",
+  "Reply": "ಉತ್ತರ",
+  "Type your reply...": "ನಿಮ್ಮ ಉತ್ತರವನ್ನು ಟೈಪ್ ಮಾಡಿ...",
+  "Submit Reply": "ಉತ್ತರವನ್ನು ಸಲ್ಲಿಸು",
+  "callScreen": {
+    "Call History": "ಕಾಲ್ ಇತಿಹಾಸ",
+    "outgoing": "ಹೋಗುತ್ತಿರುವದು",
+    "incoming": "ಬಂದಿರುವದು",
+    "missed": "ಮಿಸ್ ಆಗಿದ",
+    "time": "ಸಮಯ",
+    "duration": "ಅವಧಿ",
+    "yesterday": "ನಿನ್ನೆ",
+    "daysAgo": "{{count}} ದಿನಗಳ ಹಿಂದೆ",
+    "mins": "ನಿಮಿಷಗಳು"
+  },
+  "names": {
+    "john_doe": "ಜಾನ್ ಡೋ",
+    "jane_smith": "ಜೇನ್ ಸ್ಮಿತ್",
+    "bob_williams": "ಬಾಬ್ ವಿಲ್ಲಿಯಮ್ಸ್",
+    "alice_johnson": "ಅಲಿಸ್ ಜಾನ್ಸನ್"
+  },
+  "notifications": "ಜ್ಞಾಪನೆಗಳು",
+  "farmer": "ಕೃಷಕರ",
+  "status": "ಸ್ಥಿತಿ",
+  "time": "ಸಮಯ",
+  "noNotifications": "ಇನ್ನೂ ಯಾವುದೇ ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ",
+  "statuses": {
+    "Accepted": "ಗೃಹೀದ",
+    "Rejected": "ತಿರಸ್ಕೃತ",
+    "Pending": "ಕಾದಿವೆ"
+  },
+  "products": {
+    "fresh_tomatoes": "ತಾಜಾ ಟೊಮೆಟೋಗಳು",
+    "organic_carrots": "ಜೈವಿಕ ಕ್ಯಾರೆಟ್ಸ್",
+    "green_lettuce": "ಹರಿತ ಸಲಾಡ್"
+  },
+  "messages": {
+    "message1": "ಹೇ, ನೀವು ವಿವರಗಳನ್ನು ಕಳುಹಿಸಬಹುದೇ?",
+    "message2": "ಸಭೆ ನಾಳೆ ಮುಂದೂಡಲಾಗಿದೆ.",
+    "message3": "ಅಪ್‌ಡೇಟಿಗೆ ಧನ್ಯವಾದಗಳು!"
+  },
+  "times": {
+    "Today": "ಇಂದು",
+    "Yesterday": "ನಿನ್ನೆ",
+    "daysAgo": "{{count}} ದಿನಗಳ ಹಿಂದೆ"
+  },
+  "Farm2Home": "ಫಾರ್ಮ್2ಹೋಮ್"
+}
+  
