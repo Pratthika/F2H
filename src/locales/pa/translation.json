@@ -1,0 +1,87 @@
+{
+    "Search": "ਖੋਜੋ...",
+    "Price": "ਕੀਮਤ",
+    "Crop Type": "ਫਸਲ ਦੀ ਕਿਸਮ",
+    "Farmer Location": "ਕਿਸਾਨਾਂ ਦੀ ਥਾਂ",
+    "Available Products": "ਉਪਲਬਧ ਉਤਪਾਦ",
+    "Owner": "ਮਾਲਕ",
+    "Location": "ਜਗ੍ਹਾ",
+    "Contact": "ਸੰਪਰਕ",
+    "Farmers Name": "ਕਿਸਾਨ ਦਾ ਨਾਮ",
+    "Total Price": "ਕੁੱਲ ਕੀਮਤ",
+    "Message Owner": "ਮਾਲਕ ਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋ",
+    "Add Review": "ਸਮੀਖਿਆ ਸ਼ਾਮਲ ਕਰੋ",
+    "Submit Review": "ਸਮੀਖਿਆ ਸਬਮਿਟ ਕਰੋ",
+    "Reviews": "ਸਮੀਖਿਆਵਾਂ",
+    "No Product Data": "ਕੋਈ ਉਤਪਾਦ ਡੇਟਾ ਨਹੀਂ",
+    "Empty Cart": "ਤੁਹਾਡੀ ਕਾਰਟ ਖਾਲੀ ਹੈ",
+    "Buy All Items": "ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਖਰੀਦੋ",
+    "Buy Selected Items": "ਚੁਣੀਆਂ ਚੀਜ਼ਾਂ ਖਰੀਦੋ",
+    "Select All": "ਸਾਰਿਆਂ ਨੂੰ ਚੁਣੋ",
+    "Deselect All": "ਸਾਰੇ ਚੁਣੀ ਗਏ ਹਟਾਓ",
+    "Back": "ਪਿਛਲੇ",
+    "Mobile Number": "ਮੋਬਾਈਲ ਨੰਬਰ",
+    "Age": "ਉਮਰ",
+    "Address": "ਪਤਾ",
+    "Verified Status": "ਤਸਦੀਕ ਕੀਤੀ ਸਥਿਤੀ",
+    "Verified": "ਤਸਦੀਕ ਕੀਤਾ",
+    "Aadhar Number": "ਆਧਾਰ ਨੰਬਰ",
+    "State": "ਰਾਜ",
+    "Village": "ਪਿੰਡ",
+    "Purchase History": "ਖਰੀਦ ਇਤਿਹਾਸ",
+    "Contact Us": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+    "Call Screen": "ਕਾਲ ਸਕ੍ਰੀਨ",
+    "Notification Screen": "ਨੋਟੀਫਿਕੇਸ਼ਨ ਸਕ੍ਰੀਨ",
+    "Message Screen": "ਸਨੇਹਾ ਸਕ੍ਰੀਨ",
+    "Create a Post or Ask a Question": "ਇੱਕ ਪੋਸਟ ਬਣਾਓ ਜਾਂ ਪ੍ਰਸ਼ਨ ਪੁੱਛੋ",
+  "Ask your question here...": "ਇੱਥੇ ਆਪਣਾ ਪ੍ਰਸ਼ਨ ਪੁੱਛੋ...",
+  "Submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+  "Recent Posts": "ਹਾਲੀਆ ਪੋਸਟਾਂ",
+  "Reply": "ਜਵਾਬ ਦਿਓ",
+  "Type your reply...": "ਆਪਣਾ ਜਵਾਬ ਟਾਈਪ ਕਰੋ...",
+  "Submit Reply": "ਜਵਾਬ ਜਮ੍ਹਾਂ ਕਰੋ",
+  "callScreen": {
+    "Call History": "ਕਾਲ ਦਾ ਇਤਿਹਾਸ",
+    "outgoing": "ਬਾਹਰ ਜਾ ਰਹੀ",
+    "incoming": "ਅੰਦਰ ਆ ਰਹੀ",
+    "missed": "ਮਿਸਡ",
+    "time": "ਸਮਾਂ",
+    "duration": "ਅਵਧੀ",
+    "yesterday": "ਕਲ",
+    "daysAgo": "{{count}} ਦਿਨ ਪਹਿਲਾਂ",
+    "mins": "ਮਿੰਟ"
+  },
+  "names": {
+    "john_doe": "ਜਾਨ ਡੋ",
+    "jane_smith": "ਜੈਨ ਸਿਮਿੱਥ",
+    "bob_williams": "ਬੌਬ ਵਿਲੀਅਮਸ",
+    "alice_johnson": "ਐਲਿਸ ਜੌਨਸਨ"
+  },
+  "notifications": "ਸੂਚਨਾਵਾਂ",
+  "farmer": "ਕਿਸਾਨ",
+  "status": "ਸਥਿਤੀ",
+  "time": "ਸਮਾਂ",
+  "noNotifications": "ਕੋਈ ਸੂਚਨਾ ਨਹੀਂ",
+  "statuses": {
+    "Accepted": "ਮੰਜ਼ੂਰ ਕੀਤਾ ਗਿਆ",
+    "Rejected": "ਖਾਰਿਜ ਕੀਤਾ ਗਿਆ",
+    "Pending": "ਬਾਕੀ"
+  },
+  "products": {
+    "fresh_tomatoes": "ਤਾਜ਼ਾ ਟਮਾਟਰ",
+    "organic_carrots": "ਜੈਵਿਕ ਗਾਜਰ",
+    "green_lettuce": "ਹਰਿਆ ਲੇਟਿਊਸ"
+  },
+  "messages": {
+    "message1": "ਹੇ, ਕੀ ਤੁਸੀਂ ਵੇਰਵੇ ਭੇਜ ਸਕਦੇ ਹੋ?",
+    "message2": "ਮੀਟਿੰਗ ਕੱਲ੍ਹ ਲਈ ਮੁੜ ਰੱਦ ਕੀਤੀ ਗਈ ਹੈ।",
+    "message3": "ਅੱਪਡੇਟ ਲਈ ਧੰਨਵਾਦ!"
+  },
+  "times": {
+    "Today": "ਅੱਜ",
+    "Yesterday": "ਕੱਲ੍ਹ",
+    "daysAgo": "{{count}} ਦਿਨ ਪਹਿਲਾਂ"
+  },
+  "Farm2Home": "ਫਾਰਮ2ਹੋਮ"
+}
+  
