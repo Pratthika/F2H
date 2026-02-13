@@ -1,0 +1,87 @@
+{
+    "Search": "ଖୋଜନ୍ତୁ...",
+    "Price": "ମୂଲ୍ୟ",
+    "Crop Type": "ଫସଲ ପ୍ରକାର",
+    "Farmer Location": "କିସାନଙ୍କ ସ୍ଥାନ",
+    "Available Products": "ଲଭ୍ୟ ପ୍ରଡକ୍ଟ",
+    "Owner": "ମାଲିକ",
+    "Location": "ସ୍ଥାନ",
+    "Contact": "ସଂପର୍କ",
+    "Farmers Name": "କିସାନଙ୍କ ନାମ",
+    "Total Price": "ମୋଟ ମୂଲ୍ୟ",
+    "Message Owner": "ମାଲିକକୁ ସନ୍ଦେଶ ପଠାନ୍ତୁ",
+    "Add Review": "ସମୀକ୍ଷା ଯୋଡନ୍ତୁ",
+    "Submit Review": "ସମୀକ୍ଷା ସବମିଟ୍ କରନ୍ତୁ",
+    "Reviews": "ସମୀକ୍ଷାଗୁଡିକ",
+    "No Product Data": "କେହି ପ୍ରଡକ୍ଟ ତଥ୍ୟ ନାହିଁ",
+    "Empty Cart": "ଆପଣଙ୍କର କାର୍ଟ ଖାଲି",
+    "Buy All Items": "ସବୁ ଆଇଟମ୍ କିଣନ୍ତୁ",
+    "Buy Selected Items": "ଚୟନିତ ଆଇଟମ୍ କିଣନ୍ତୁ",
+    "Select All": "ସବୁ ଚୟନ କରନ୍ତୁ",
+    "Deselect All": "ସବୁ ଅଚୟନ କରନ୍ତୁ",
+    "Back": "ପଛକୁ",
+    "Mobile Number": "ମୋବାଇଲ୍ ନମ୍ବର",
+    "Age": "ଅୟୁ",
+    "Address": "ପତା",
+    "Verified Status": "ସତ୍ୟାପିତ ଅବସ୍ଥା",
+    "Verified": "ସତ୍ୟାପିତ",
+    "Aadhar Number": "ଆଧାର ନମ୍ବର",
+    "State": "ରାଜ୍ୟ",
+    "Village": "ଗାଁ",
+    "Purchase History": "କ୍ରୟ ଇତିହାସ",
+    "Contact Us": "ଆମକୁ ସଂପର୍କ କରନ୍ତୁ",
+    "Call Screen": "କଲ୍ ସ୍କ୍ରିନ୍",
+    "Notification Screen": "ନୋଟିଫିକେସନ୍ ସ୍କ୍ରିନ୍",
+    "Message Screen": "ମେସେଜ୍ ସ୍କ୍ରିନ୍",
+    "Create a Post or Ask a Question": "ଏକ ପୋଷ୍ଟ ତିଆରି କରନ୍ତୁ କିମ୍ବା ପ୍ରଶ୍ନ ପଚାରନ୍ତୁ",
+  "Ask your question here...": "ଏଠାରେ ଆପଣଙ୍କ ପ୍ରଶ୍ନ ପଚାରନ୍ତୁ...",
+  "Submit": "ଦାଖଲ କରନ୍ତୁ",
+  "Recent Posts": "ସମ୍ପ୍ରତିକ ପୋଷ୍ଟଗୁଡ଼ିକ",
+  "Reply": "ଉତ୍ତର",
+  "Type your reply...": "ଆପଣଙ୍କର ଉତ୍ତର ଟାଇପ୍ କରନ୍ତୁ...",
+  "Submit Reply": "ଉତ୍ତର ଦାଖଲ କରନ୍ତୁ",
+  "callScreen": {
+    "Call History": "କଲ୍ ଇତିହାସ",
+    "outgoing": "ବାହାର ଯାଇଥିଲା",
+    "incoming": "ଭିତରକୁ ଆସୁଥିଲା",
+    "missed": "ମିସ୍ ହେଲା",
+    "time": "ସମୟ",
+    "duration": "କାଳ",
+    "yesterday": "ଗତକାଲି",
+    "daysAgo": "{{count}} ଦିନ ଆଗରୁ",
+    "mins": "ମିନିଟ"
+  },
+  "names": {
+    "john_doe": "ଜନ୍ ଡୋ",
+    "jane_smith": "ଜେନ୍ ସ୍ମିଥ",
+    "bob_williams": "ବବ୍ ଉଇଲିୟମ୍ସ",
+    "alice_johnson": "ଏଲିସ୍ ଜନ୍ସନ୍"
+  },
+  "notifications": "ସୂଚନା",
+  "farmer": "କୃଷକ",
+  "status": "ସ୍ଥିତି",
+  "time": "ସମୟ",
+  "noNotifications": "ଏପରିକି କୌଣସି ସୂଚନା ନାହିଁ",
+  "statuses": {
+    "Accepted": "ଗ୍ରହଣ କରାଯାଇଛି",
+    "Rejected": "ଖାରିଜ କରାଯାଇଛି",
+    "Pending": "ଲମ୍ବିତ"
+  },
+  "products": {
+    "fresh_tomatoes": "ତାଜା ଟମାଟର",
+    "organic_carrots": "ଜୈବିକ ଗାଜର",
+    "green_lettuce": "ଗ୍ରୀନ୍ ଲେଟସ"
+  },
+  "messages": {
+    "message1": "ହେ, ତୁମେ ବିବରଣୀ ପଠାଇପାରିବେ କି?",
+    "message2": "ମିଟିଂ କାଲି ପୁନର୍ନିଧାରିତ କରାଯାଇଛି।",
+    "message3": "ଅପ୍ଡେଟ୍‌ ପାଇଁ ଧନ୍ୟବାଦ!"
+  },
+  "times": {
+    "Today": "ଆଜି",
+    "Yesterday": "କାଲି",
+    "daysAgo": "{{count}} ଦିନ ପୂର୍ବରୁ"
+  },
+  "Farm2Home": "ଫାର୍ମ2ହୋମ୍"
+}
+  
