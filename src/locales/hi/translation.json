@@ -1,0 +1,87 @@
+{
+    "Search": "खोजें...",
+    "Price": "कीमत",
+    "Crop Type": "फसल की किस्म",
+    "Farmer Location": "किसानों का स्थान",
+    "Available Products": "उपलब्ध उत्पाद",
+    "Owner": "मालिक",
+    "Location": "स्थान",
+    "Contact": "संपर्क",
+    "Farmers Name": "किसान का नाम",
+    "Total Price": "कुल कीमत",
+    "Message Owner": "मालिक को संदेश भेजें",
+    "Add Review": "समीक्षा जोड़ें",
+    "Submit Review": "समीक्षा सबमिट करें",
+    "Reviews": "समीक्षाएँ",
+    "No Product Data": "कोई उत्पाद डेटा नहीं",
+    "Empty Cart": "आपकी कार्ट खाली है",
+    "Buy All Items": "सभी आइटम खरीदें",
+    "Buy Selected Items": "चयनित आइटम खरीदें",
+    "Select All": "सभी का चयन करें",
+    "Deselect All": "सभी का चयन रद्द करें",
+    "Back": "वापस",
+    "Mobile Number": "मोबाइल नंबर",
+    "Age": "उम्र",
+    "Address": "पता",
+    "Verified Status": "सत्यापित स्थिति",
+    "Verified": "सत्यापित",
+    "Aadhar Number": "आधार नंबर",
+    "State": "राज्य",
+    "Village": "गांव",
+    "Purchase History": "खरीदारी का इतिहास",
+    "Contact Us": "संपर्क करें",
+    "Call Screen": "कॉल स्क्रीन",
+    "Notification Screen": "सूचना स्क्रीन",
+    "Message Screen": "संदेश स्क्रीन",
+    "Create a Post or Ask a Question": "एक पोस्ट बनाएं या प्रश्न पूछें",
+  "Ask your question here...": "अपना प्रश्न यहाँ पूछें...",
+  "Submit": "जमा करें",
+  "Recent Posts": "हाल के पोस्ट",
+  "Reply": "उत्तर दें",
+  "Type your reply...": "अपना उत्तर टाइप करें...",
+  "Submit Reply": "उत्तर जमा करें",
+  "callScreen": {
+    "Call History": "कॉल इतिहास",
+    "outgoing": "आउटगोइंग",
+    "incoming": "इनकमिंग",
+    "missed": "मिस्ड",
+    "time": "समय",
+    "duration": "अवधि",
+    "yesterday": "कल",
+    "daysAgo": "{{count}} दिन पहले",
+    "mins": "मिनट"
+  },
+  "names": {
+    "john_doe": "जॉन डो",
+    "jane_smith": "जेन स्मिथ",
+    "bob_williams": "बॉब विलियम्स",
+    "alice_johnson": "एलिस जॉनसन"
+  },
+  "notifications": "सूचनाएँ",
+  "farmer": "किसान",
+  "status": "स्थिति",
+  "time": "समय",
+  "noNotifications": "अभी तक कोई सूचना नहीं",
+  "statuses": {
+    "Accepted": "स्वीकृत",
+    "Rejected": "खारिज",
+    "Pending": "लंबित"
+  },
+  "products": {
+    "fresh_tomatoes": "ताजे टमाटर",
+    "organic_carrots": "जैविक गाजर",
+    "green_lettuce": "हरी सलाद पत्ता"
+  },
+  "messages": {
+    "message1": "हे, क्या आप विवरण भेज सकते हैं?",
+    "message2": "बैठक को कल के लिए स्थगित कर दिया गया है।",
+    "message3": "अपडेट के लिए धन्यवाद!"
+  },
+  "times": {
+    "Today": "आज",
+    "Yesterday": "कल",
+    "daysAgo": "{{count}} दिन पहले"
+  },
+  "Farm2Home": "फार्म2होम"
+  }
+  
