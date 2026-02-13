@@ -1,0 +1,87 @@
+{
+    "Search": "શોધો...",
+    "Price": "કિંમત",
+    "Crop Type": "ફસલનો પ્રકાર",
+    "Farmer Location": "કિસાનની જગ્યા",
+    "Available Products": "ઉપલબ્ધ ઉત્પાદનો",
+    "Owner": "માલિક",
+    "Location": "જગ્યા",
+    "Contact": "સંપર્ક",
+    "Farmers Name": "કિસાનનું નામ",
+    "Total Price": "કુલ કિંમત",
+    "Message Owner": "માલિકને સંદેશ મોકલો",
+    "Add Review": "વિસ્લેષણ ઉમેરો",
+    "Submit Review": "વિસ્લેષણ સબમિટ કરો",
+    "Reviews": "વિસ્લેષણ",
+    "No Product Data": "કોઈ ઉત્પાદન માહિતી નથી",
+    "Empty Cart": "તમારું કાર્ટ ખાલી છે",
+    "Buy All Items": "બધા વસ્તુઓ ખરીદો",
+    "Buy Selected Items": "ચૂંટેલા વસ્તુઓ ખરીદો",
+    "Select All": "બધા પસંદ કરો",
+    "Deselect All": "બધા પસંદગી દૂર કરો",
+    "Back": "પાછા",
+    "Mobile Number": "મોબાઇલ નંબર",
+    "Age": "ઉમર",
+    "Address": "સરનામું",
+    "Verified Status": "પ્રમાણિત સ્થિતિ",
+    "Verified": "પ્રમાણિત",
+    "Aadhar Number": "આધાર નંબર",
+    "State": "રાજ્ય",
+    "Village": "ગામ",
+    "Purchase History": "ખરીદીનો ઇતિહાસ",
+    "Contact Us": "અમને સંપર્ક કરો",
+    "Call Screen": "કોલ સ્ક્રીન",
+    "Notification Screen": "અલર્ટ સ્ક્રીન",
+    "Message Screen": "સંદેશ સ્ક્રીન",
+    "Create a Post or Ask a Question": "પોસ્ટ બનાવો અથવા પ્રશ્ન પૂછો",
+  "Ask your question here...": "તમારો પ્રશ્ન અહીં પૂછો...",
+  "Submit": "સબમિટ કરો",
+  "Recent Posts": "તાજેતરના પોસ્ટ્સ",
+  "Reply": "જવાબ આપો",
+  "Type your reply...": "તમારો જવાબ ટાઈપ કરો...",
+  "Submit Reply": "જવાબ સબમિટ કરો",
+  "callScreen": {
+    "Call History": "કોલ ઇતિહાસ",
+    "outgoing": "આઉટગોઇંગ",
+    "incoming": "ઇનકમિંગ",
+    "missed": "ચૂકેલ",
+    "time": "સમય",
+    "duration": "અવધિ",
+    "yesterday": "ગઈકાલે",
+    "daysAgo": "{{count}} દિવસો પહેલા",
+    "mins": "મિનિટ"
+  },
+  "names": {
+    "john_doe": "જોન ડો",
+    "jane_smith": "જેન સ્મિથ",
+    "bob_williams": "બોબ વિલિયમ્સ",
+    "alice_johnson": "એલિસ જૉનસન"
+  },
+  "notifications": "સૂચનાઓ",
+  "farmer": "કિસાન",
+  "status": "સ્થિતિ",
+  "time": "સમય",
+  "noNotifications": "હજી કોઈ સૂચના નથી",
+  "statuses": {
+    "Accepted": "ગ્રાહ્ય",
+    "Rejected": "નકાર્ય",
+    "Pending": "મુલતવી"
+  },
+  "products": {
+    "fresh_tomatoes": "તાજા ટમેટા",
+    "organic_carrots": "જૈવિક ગાજર",
+    "green_lettuce": "સુક્કા શાક"
+  },
+  "messages": {
+    "message1": "હે, તમે વિગતો મોકલી શકો છો?",
+    "message2": "મિટિંગને આવતીકાલે મુલતવી રાખવામાં આવ્યું છે.",
+    "message3": "અપડેટ માટે આભાર!"
+  },
+  "times": {
+    "Today": "આજે",
+    "Yesterday": "ગઈ કાલે",
+    "daysAgo": "{{count}} દિવસો પહેલા"
+  },
+  "Farm2Home": "ફાર્મ2હોમ"
+  }
+  
