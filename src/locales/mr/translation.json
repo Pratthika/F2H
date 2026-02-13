@@ -1,0 +1,86 @@
+{
+    "Search": "शोधा...",
+    "Price": "किंमत",
+    "Crop Type": "पीक प्रकार",
+    "Farmer Location": "शेतकऱ्यांचे स्थान",
+    "Available Products": "उपलब्ध उत्पादने",
+    "Owner": "मालक",
+    "Location": "स्थान",
+    "Contact": "संपर्क",
+    "Farmers Name": "शेतकऱ्याचे नाव",
+    "Total Price": "एकूण किंमत",
+    "Message Owner": "मालकाला संदेश पाठवा",
+    "Add Review": "समीक्षा जोडा",
+    "Submit Review": "समीक्षा सबमिट करा",
+    "Reviews": "समीक्षा",
+    "No Product Data": "कोणतीही उत्पाद माहिती नाही",
+    "Empty Cart": "आपली कार्ट रिकामी आहे",
+    "Buy All Items": "सर्व वस्तू खरेदी करा",
+    "Buy Selected Items": "चयनित वस्तू खरेदी करा",
+    "Select All": "सर्व निवडा",
+    "Deselect All": "सर्व निवृत्त करा",
+    "Back": "मागे",
+    "Mobile Number": "मोबाइल नंबर",
+    "Age": "वय",
+    "Address": "पत्ता",
+    "Verified Status": "सत्यापित स्थिती",
+    "Verified": "सत्यापित",
+    "Aadhar Number": "आधार नंबर",
+    "State": "राज्य",
+    "Village": "गाव",
+    "Purchase History": "खरेदी इतिहास",
+    "Contact Us": "आमच्याशी संपर्क साधा",
+    "Call Screen": "कॉल स्क्रीन",
+    "Notification Screen": "अधिसूचना स्क्रीन",
+    "Message Screen": "संदेश स्क्रीन",
+    "Create a Post or Ask a Question": "पोस्ट तयार करा किंवा प्रश्न विचारा",
+  "Ask your question here...": "आपला प्रश्न येथे विचारा...",
+  "Submit": "सादर करा",
+  "Recent Posts": "अलीकडील पोस्ट",
+  "Reply": "उत्तर द्या",
+  "Type your reply...": "तुमचे उत्तर टाइप करा...",
+  "Submit Reply": "उत्तर सादर करा",
+  "callScreen": {
+    "Call History": "कॉल इतिहास",
+    "outgoing": "बाहेर जाणारे",
+    "incoming": "आगमन",
+    "missed": "चुकलेले", "time": "वेळ",
+    "duration": "कालावधी",
+    "yesterday": "काल",
+    "daysAgo": "{{count}} दिवसांपूर्वी",
+    "mins": "मिनिटे"
+  },
+  "names": {
+    "john_doe": "जॉन डो",
+    "jane_smith": "जेन स्मिथ",
+    "bob_williams": "बॉब विलियम्स",
+    "alice_johnson": "अॅलिस जॉन्सन"
+  },
+  "notifications": "सूचना",
+  "farmer": "किसान",
+  "status": "स्थिती",
+  "time": "वेळ",
+  "noNotifications": "अजून कोणतीही सूचना नाही",
+  "statuses": {
+    "Accepted": "स्वीकृती",
+    "Rejected": "नाकारले",
+    "Pending": "उपस्थित"
+  },
+  "products": {
+    "fresh_tomatoes": "ताजे टोमॅटो",
+    "organic_carrots": "सेंद्रीय गाजर",
+    "green_lettuce": "हिरवी सलाड"
+  },
+  "messages": {
+    "message1": "अरे, तुम्ही तपशील पाठवू शकता का?",
+    "message2": "बैठक उद्या पुढे ढकलण्यात आली आहे.",
+    "message3": "अपडेटसाठी धन्यवाद!"
+  },
+  "times": {
+    "Today": "आज",
+    "Yesterday": "काल",
+    "daysAgo": "{{count}} दिवसांपूर्वी"
+  },
+  "Farm2Home": "फार्म2होम"
+  }
+  
