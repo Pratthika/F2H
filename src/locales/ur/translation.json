@@ -1,0 +1,87 @@
+{
+    "Search": "تلاش کریں...",
+    "Price": "قیمت",
+    "Crop Type": "فصل کی قسم",
+    "Farmer Location": "کسانوں کا مقام",
+    "Available Products": "دستیاب مصنوعات",
+    "Owner": "مالک",
+    "Location": "مقام",
+    "Contact": "رابطہ",
+    "Farmers Name": "کسان کا نام",
+    "Total Price": "کل قیمت",
+    "Message Owner": "مالک کو پیغام بھیجیں",
+    "Add Review": "جائزہ شامل کریں",
+    "Submit Review": "جائزہ جمع کریں",
+    "Reviews": "جائزے",
+    "No Product Data": "کوئی مصنوعات کا ڈیٹا نہیں",
+    "Empty Cart": "آپ کی کارٹ خالی ہے",
+    "Buy All Items": "تمام اشیاء خریدیں",
+    "Buy Selected Items": "منتخب کردہ اشیاء خریدیں",
+    "Select All": "سب کو منتخب کریں",
+    "Deselect All": "سب کو غیر منتخب کریں",
+    "Back": "پیچھے",
+    "Mobile Number": "موبائل نمبر",
+    "Age": "عمر",
+    "Address": "پتہ",
+    "Verified Status": "تصدیق شدہ حیثیت",
+    "Verified": "تصدیق شدہ",
+    "Aadhar Number": "آدھار نمبر",
+    "State": "ریاست",
+    "Village": "گاؤں",
+    "Purchase History": "خریداری کی تاریخ",
+    "Contact Us": "ہم سے رابطہ کریں",
+    "Call Screen": "کال اسکرین",
+    "Notification Screen": "نوٹیفکیشن اسکرین",
+    "Message Screen": "پیغام اسکرین",
+    "Create a Post or Ask a Question": "ایک پوسٹ بنائیں یا سوال پوچھیں",
+    "Ask your question here...": "یہاں اپنا سوال پوچھیں...",
+    "Submit": "جمع کریں",
+    "Recent Posts": "حالیہ پوسٹس",
+    "Reply": "جواب دیں",
+    "Type your reply...": "اپنا جواب لکھیں...",
+    "Submit Reply": "جواب جمع کریں",
+    "callScreen": {
+    "Call History": "کال کی تاریخ",
+    "outgoing": "باہر جانے والی",
+    "incoming": "اندر آنے والی",
+    "missed": "مسڈ",
+    "time": "وقت",
+    "duration": "مدت",
+    "yesterday": "کل",
+    "daysAgo": "{{count}} دن پہلے",
+    "mins": "منٹ"
+  },
+  "names": {
+    "john_doe": "جان ڈو",
+    "jane_smith": "جین اسمتھ",
+    "bob_williams": "باب ولیمز",
+    "alice_johnson": "ایلس جانسن"
+  },
+  "notifications": "نوٹیفیکیشنز",
+  "farmer": "کسان",
+  "status": "حالت",
+  "time": "وقت",
+  "noNotifications": "ابھی کوئی نوٹیفکیشن نہیں",
+  "statuses": {
+    "Accepted": "قبول کیا گیا",
+    "Rejected": "رد کر دیا گیا",
+    "Pending": "زیر غور"
+  },
+  "products": {
+    "fresh_tomatoes": "تازہ ٹماٹر",
+    "organic_carrots": "نامیاتی گاجر",
+    "green_lettuce": "سبز سلاد"
+  },
+  "messages": {
+    "message1": "ہیلو، کیا آپ تفصیلات بھیج سکتے ہیں؟",
+    "message2": "اجلاس کل کے لیے ملتوی کر دیا گیا ہے۔",
+    "message3": "اپ ڈیٹ کے لیے شکریہ!"
+  },
+  "times": {
+    "Today": "آج",
+    "Yesterday": "کل",
+    "daysAgo": "{{count}} دن پہلے"
+  },
+  "Farm2Home": "فارم2ہوم"
+  }
+  
