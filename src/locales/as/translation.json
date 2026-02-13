@@ -1,0 +1,87 @@
+{
+    "Search": "অনুসন্ধান কৰক...",
+    "Price": "মূল্য",
+    "Crop Type": "ফচলৰ প্ৰকাৰ",
+    "Farmer Location": "কৃষকৰ অৱস্থান",
+    "Available Products": "উপলব্ধ সামগ্ৰী",
+    "Owner": "মালিক",
+    "Location": "অৱস্থান",
+    "Contact": "যোগাযোগ",
+    "Farmers Name": "কৃষকৰ নাম",
+    "Total Price": "মুঠ মূল্য",
+    "Message Owner": "মালিকক বাৰ্তা প্ৰেৰণ কৰক",
+    "Add Review": "সমীক্ষা যোগ কৰক",
+    "Submit Review": "সমীক্ষা জমা কৰক",
+    "Reviews": "সমীক্ষা",
+    "No Product Data": "কোনো সামগ্ৰী তথ্য উপলব্ধ নহয়",
+    "Empty Cart": "আপোনাৰ কাৰ্ট খালী আছে",
+    "Buy All Items": "সকলো সামগ্ৰী ক্ৰয় কৰক",
+    "Buy Selected Items": "বাচি লোৱা সামগ্ৰী ক্ৰয় কৰক",
+    "Select All": "সকলো বাচনি কৰক",
+    "Deselect All": "সকলো বাচনি অব্যাহত কৰক",
+    "Back": "পিছনলৈ",
+    "Mobile Number": "ম’বাইল নম্বৰ",
+    "Age": "বয়স",
+    "Address": "ঠিকনা",
+    "Verified Status": "পৰীক্ষিত অৱস্থা",
+    "Verified": "পৰীক্ষিত",
+    "Aadhar Number": "আধাৰ নম্বৰ",
+    "State": "ৰাজ্য",
+    "Village": "গাঁও",
+    "Purchase History": "ক্ৰয় ইতিহাস",
+    "Contact Us": "আমাক যোগাযোগ কৰক",
+    "Call Screen": "কল স্ক্রীন",
+    "Notification Screen": "নোটিফিকেশন স্ক্রীন",
+    "Message Screen": "বার্তা স্ক্রীন",
+    "Create a Post or Ask a Question": "এটা পোস্ট সৃষ্টি কৰক বা প্ৰশ্ন সোধক",
+  "Ask your question here...": "আপোনাৰ প্ৰশ্ন ইয়াত সোধক...",
+  "Submit": "জমা দিয়ক",
+  "Recent Posts": "সাম্প্ৰতিক পোস্ট",
+  "Reply": "উত্তৰ দিয়ক",
+  "Type your reply...": "আপোনাৰ উত্তৰ টাইপ কৰক...",
+  "Submit Reply": "উত্তৰ জমা দিয়ক",
+  "callScreen": {
+    "Call History": "কল ইতিহাস",
+    "outgoing": "বাহিৰলৈ যোৱা",
+    "incoming": "ভিতৰলৈ অহা",
+    "missed": "মিছড",
+    "time": "সময়",
+    "duration": "সময়কাল",
+    "yesterday": "কালি",
+    "daysAgo": "{{count}} দিন আগতে",
+    "mins": "মিনিট"
+  },
+  "names": {
+    "john_doe": "জন ডো",
+    "jane_smith": "জেনে স্মিথ",
+    "bob_williams": "বব উইলিয়াম্স",
+    "alice_johnson": "এলিস জনচন"
+  },
+  "notifications": "বাৰ্তা",
+  "farmer": "কৃষক",
+  "status": "অৱস্থা",
+  "time": "সময়",
+  "noNotifications": "কোনো বাৰ্তা নাই",
+  "statuses": {
+    "Accepted": "গ্ৰহণ কৰা হৈছে",
+    "Rejected": "প্ৰত্যাখ্যান কৰা হৈছে",
+    "Pending": "লম্বিত"
+  },
+  "products": {
+    "fresh_tomatoes": "তাজা টমেটো",
+    "organic_carrots": "জৈৱিক গাজৰ",
+    "green_lettuce": "সেউজীয়া লেটিচ"
+  },
+  "messages": {
+    "message1": "হে, আপুনি বিৱৰণ পঠিয়াব পাৰিবানে?",
+    "message2": "মিটিং কাইলৈৰ বাবে পুণৰ স্থগিত কৰা হৈছে।",
+    "message3": "আপডেটৰ বাবে ধন্যবাদ!"
+  },
+  "times": {
+    "Today": "আজিৰ দিন",
+    "Yesterday": "কালিৰ দিন",
+    "daysAgo": "{{count}} দিন পূৰ্বে"
+  },
+   "Farm2Home": "ফাৰ্ম2হোম"
+}
+  
